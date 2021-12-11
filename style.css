@@ -1849,7 +1849,7 @@ blockquote {
     background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;
     z-index: 999999999;
 }
-.mobile-menu-area { display: none }
+.mobile-menu-area { display: none; }
 .container.mean-container {
     position: relative;
     left: 15px;
@@ -1962,3 +1962,8 @@ blockquote {
     border-color: #333;
     background-color: #333;
 }
+
+.logo-02{
+    width: 100px;
+}
+
