@@ -30,11 +30,11 @@ let apresentacoes = [
             {
                 nome : 'Avanade Learning',
                 empresaImg : 'img/empresas/avanade.png',
-                grupoImg : 'img/empresas/avanade.png',
+                grupoImg : 'img/times/Avanade Learning.png',
                 grupoQrCode: 'img/qrcode.png',
                 descricao: 'A Avanade Learning é uma plataforma de ensino que conta com cursos livres de diferentes áreas obtendo foco no ensino gamificado.',
-                time : 'Time 08',
-                horario : '9:00',
+                time : 'Time 09',
+                horario : '8:00',
                 integrantes : [
                     {nome : 'Pedro Henrique'},
                     {nome : 'Gustavo Tolentino'},
@@ -44,20 +44,37 @@ let apresentacoes = [
                 mentores : 'Fernando Guerra'
             },
             {
-                nome : 'Avanade Learning',
-                empresaImg : 'img/empresas/avanade.png',
-                grupoImg : 'img/empresas/avanade.png',
+                nome : 'M3LC',
+                empresaImg : 'img/empresas/linx.png',
+                grupoImg : 'img/times/M3LC.png',
                 grupoQrCode: 'img/qrcode.png',
-                descricao: 'A Avanade Learning é uma plataforma de ensino que conta com cursos livres de diferentes áreas obtendo foco no ensino gamificado.',
-                time : 'Time 08',
+                descricao: 'Uma API baseada em OCR, para leitura de documentos, com um sistema Search de palavras chaves.',
+                time : 'Time 05',
+                horario : '8:30',
+                integrantes : [
+                    {nome : 'Lucas Neves'},
+                    {nome : 'Matheus David'},
+                    {nome : 'Camila Prado'},
+                    {nome : 'Letícia Araújo'},
+                    {nome : 'Leandro Rangel'},
+                ],
+                mentores : 'Daniel e Hugo'
+            },
+            {
+                nome : 'Quadline Solutions',
+                empresaImg : 'img/empresas/cargox.png',
+                grupoImg : 'img/times/logoGrupo3-sem-fundo.png',
+                grupoQrCode: 'img/qrcode.png',
+                descricao: 'Sistema de retrospectiva para usuários (Mobile), e um sistema de monitoramento de dados em dashboard (web).',
+                time : 'Time 03',
                 horario : '9:00',
                 integrantes : [
-                    {nome : 'Pedro Henrique'},
-                    {nome : 'Gustavo Tolentino'},
-                    {nome : 'Joyce Santos'},
-                    {nome : 'Lucas Araújo'},
+                    {nome : 'Gabriela Gonzaga'},
+                    {nome : 'Lucas Silva'},
+                    {nome : 'Erika Leite'},
+                    {nome : 'Leandro Cavalcanti'},
                 ],
-                mentores : 'Fernando Guerra'
+                mentores : 'Caroline e José William'
             },
         ]
     },
